@@ -111,4 +111,4 @@ ENV/
 # projects
 
 logistic-depression-p1/
-logistic-depression-p1/*
+./logistic-depression-p1/*
