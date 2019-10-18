@@ -106,3 +106,8 @@ ENV/
 *.fdb_latexmk
 *.synctex.gz
 *.tex
+
+# My gitignore
+# projects
+
+logistic-depression-p1/
